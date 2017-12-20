@@ -1,10 +1,6 @@
 # RepoOfMissingProjects
 Projects 1 and 2
 
-
-# RepoOfMissingProjects
-Projects 1 and 2
-
 ### Project 01:
 1.  followed tutorial closely (don't worry, at this point I think we're all clear I need to go back to Product Management while coding skills are honed)
 2.  Redid this several times.  
