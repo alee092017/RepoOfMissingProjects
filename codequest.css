@@ -1,0 +1,93 @@
+#check-answer {
+  color: rgb(50, 76, 191);
+  position: absolute;
+  border-radius: 70%;
+  height: 20%;
+  width: 20%;
+  top: 500px;
+  left: 400px;
+  background-color: black;
+}
+body {
+  font-size: 30px;
+  font-family: 'Roboto Mono', monospace;
+  color: white;
+}
+
+#background-0 {
+  height: 100%;
+  color: rgb(218, 249, 30);
+  background: url(images/first-question.png) center center no-repeat;
+}
+
+#background-1 {
+  height: 100%;
+  color: blue;
+  background: url(images/second-question.png) center center no-repeat;
+}
+
+#background-2 {
+  height: 100%;
+  color: rgb(96, 212, 49);
+  background: url(images/third-question.png) center center no-repeat;
+}
+
+#background-3 {
+  height: 100%;
+  color: rgb(213, 70, 208);
+  background: url(images/fourth-question.png) center center no-repeat;
+}
+
+#background-4 {
+  height: 100%;
+  color: blue;
+  background: url(images/fifth-question.png) center center no-repeat;
+}
+
+#background-5 {
+  height: 100%;
+  color: blue;
+  background: url(images/sixth-question.png) center center no-repeat;
+}
+
+#background-6 {
+  height: 100%;
+  color: blue;
+  background: url(images/seventh-question.png) center center no-repeat;
+}
+
+#background-7 {
+  height: 100%;
+  color: blue;
+  background: url(images/eigth-question.png) center center no-repeat;
+}
+
+#background-8 {
+  height: 100%;
+  color: blue;
+  background: url(images/ninth-question.png) center center no-repeat;
+}
+
+#background-9 {
+  height: 100%;
+  color: blue;
+  background: url(images/tenth-question.png) center center no-repeat;
+}
+
+
+
+#submit {
+  height: 25px;
+  width: 400px;
+  font-size: 20px
+}
+#putQustionsHere {
+  background-color: black;
+  height: 30%;
+  width: 40%;
+  color: white;
+  position: absolute;
+}
+ img {
+
+ }

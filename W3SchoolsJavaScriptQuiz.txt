@@ -1,0 +1,130 @@
+W3Schools JavaScript Quiz
+JavaScript QUIZ Points: 20 out of 25
+
+1. Inside which HTML element do we put the JavaScript?
+You answered:
+<script>
+Correct Answer!
+
+2. What is the correct JavaScript syntax to change the content of the HTML element below?
+<p id="demo">This is a demonstration.</p>
+You answered:
+document.getElementById("demo").innerHTML = "Hello World!";
+ Correct Answer!
+
+3. Where is the correct place to insert a JavaScript?
+You answered:
+Both the <head> section and the <body> section are correct
+ Correct Answer!
+
+4. What is the correct syntax for referring to an external script called "xxx.js"?
+You answered:
+<script src="xxx.js">
+ Correct Answer!
+
+5. The external JavaScript file must contain the <script> tag.
+You answered:
+False
+ Correct Answer!
+
+6. How do you write "Hello World" in an alert box?
+You answered:
+alert("Hello World");
+ Correct Answer!
+
+7. How do you create a function in JavaScript?
+You answered:
+function = myFunction()
+ Wrong Answer!
+
+8. How do you call a function named "myFunction"?
+You answered:
+myFunction()
+ Correct Answer!
+
+9. How to write an IF statement in JavaScript?
+You answered:
+if (i == 5)
+ Correct Answer!
+
+10. How to write an IF statement for executing some code if "i" is NOT equal to 5?
+You answered:
+if i =! 5 then
+ Wrong Answer!
+
+11. How does a WHILE loop start?
+You answered:
+while i = 1 to 10
+ Wrong Answer!
+
+12. How does a FOR loop start?
+You answered:
+for (i = 0; i <= 5; i++)
+ Correct Answer!
+
+13. How can you add a comment in a JavaScript?
+You answered:
+//This is a comment
+ Correct Answer!
+
+14. How to insert a comment that has more than one line?
+You answered:
+/*This comment has
+more than one line*/
+ Correct Answer!
+
+15. What is the correct way to write a JavaScript array?
+You answered:
+var colors = ["red", "green", "blue"]
+ Correct Answer!
+
+16. How do you round the number 7.25, to the nearest integer?
+You answered:
+Math.round(7.25)
+ Correct Answer!
+
+17. How do you find the number with the highest value of x and y?
+You answered:
+Math.max(x, y)
+ Correct Answer!
+
+18. What is the correct JavaScript syntax for opening a new window called "w2" ?
+You answered:
+w2 = window.new("http://www.w3schools.com");
+ Wrong Answer!
+
+19. JavaScript is the same as Java.
+You answered:
+False
+ Correct Answer!
+
+20. How can you detect the client's browser name?
+You answered:
+client.navName
+ Wrong Answer!
+
+21. Which event occurs when the user clicks on an HTML element?
+You answered:
+onclick
+ Correct Answer!
+
+22. How do you declare a JavaScript variable?
+You answered:
+var carName;
+ Correct Answer!
+
+23. Which operator is used to assign a value to a variable?
+You answered:
+=
+ Correct Answer!
+
+24. What will the following code return: Boolean(10 > 9)
+You answered:
+true
+ Correct Answer!
+
+25. Is JavaScript case-sensitive?
+You answered:
+Yes
+ Correct Answer!
+
