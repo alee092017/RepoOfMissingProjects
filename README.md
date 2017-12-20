@@ -15,6 +15,6 @@ Projects 1 and 2
  ### Project02:
  1.  [job tracker app-discarded garbage version](https://github.com/alee092017/wdi-Project02-V2)
  2.  full stack rails, for the sake of speed and time.
-      the most recent version 
+      [the most recent version](https://github.com/alee092017/Project02-JobApplicationTrackr)
  
  done
